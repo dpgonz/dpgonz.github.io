@@ -13,7 +13,7 @@ email: daniel.p.gonzalez@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Random samples from my brain on Machine Learning and AI.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fbmachine.github.com" # the base hostname & protocol for your site
+url: "https://dpgonz.github.com" # the base hostname & protocol for your site
 brand-color: '#40577c'
 permalink: ':title/'
 
