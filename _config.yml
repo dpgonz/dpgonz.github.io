@@ -7,11 +7,11 @@
 
 # Site settings
 title: Daniel P. Gonzalez
-tagline: "Making machines learn non-apocalyptic things. <a href='https://twitter.com/d_p_gonz' class='twitter-follow-button' data-show-count='false'>Follow @d_p_gonz</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>"
+tagline: "Biased samples from my brain on Machine Learning and AI."
 picture: daniel.jpg #keep a 100x100 image inside images folder.
 email: daniel.p.gonzalez@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Random samples from my brain on Machine Learning and AI.
+  Biased samples from my brain on Machine Learning and AI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dpgonz.github.com" # the base hostname & protocol for your site
 brand-color: '#40577c'
@@ -19,7 +19,7 @@ permalink: ':title/'
 
 # Footer
 credits: webjeda #credits on the footer
-version: 1.0
+# version: 1.0
 
 # Build settings
 markdown: kramdown
@@ -58,4 +58,4 @@ prose:
     - /_layouts
     - /_includes
 
-gems: [jekyll-paginate, jekyll-seo-tag, jekyll-katex]
+gems: [jekyll-paginate, jekyll-seo-tag]
